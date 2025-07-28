@@ -25,21 +25,21 @@ The `tests/` folder includes a variety of test cases designed to validate the co
 1. **Test Case 1:**  
     *Input:*  
     ```
-    [Sample input for test case 1]
+    [Sample input for test case 1 in testcase1.json file] 
     ```
     *Expected Output:*  
     ```
-    [Expected output for test case 1]
+    4
     ```
 
 2. **Test Case 2:**  
     *Input:*  
     ```
-    [Sample input for test case 2]
+    [Sample input for test case 2 in testcase2.json file]
     ```
     *Expected Output:*  
     ```
-    [Expected output for test case 2]
+    995085094601491
     ```
 
 #### Dry Run: Test Case 2
